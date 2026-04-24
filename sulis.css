@@ -1,3 +1,9 @@
+body{
+    background-color: #f1fbff;
+    color: #40409b;
+    padding: 20px 0;
+}
+
 .kerek
 {
     border-radius: 30px;
